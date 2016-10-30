@@ -1,0 +1,6 @@
+com\epam\test\TestBase.class
+com\epam\controls\Button.class
+com\epam\controls\Checkbox.class
+com\epam\controls\Element.class
+com\epam\controls\ServiceList.class
+com\epam\controls\TextField.class
